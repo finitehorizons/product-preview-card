@@ -9493,7 +9493,7 @@ const $d = () =>
                         className:
                             "flex flex-row rounded-tl-[12px] rounded-bl-[12px] w-[50%]",
                         children: G.jsx("img", {
-                            src: "../image-product-desktop.jpg",
+                            src: "image-product-desktop.jpg",
                             alt: "",
                             className:
                                 "object-cover rounded-tl-[12px] rounded-bl-[12px]",
